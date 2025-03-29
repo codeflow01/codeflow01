@@ -1,8 +1,8 @@
-### Hi there :coffee:
+# Hi there :coffee:
 
 Welcome to my code space — where I tinker, build, and have fun with code. Hope you enjoy your visit!
 
-### Continuous learning, continuous building
+# Continuous learning, continuous building
 
 I’m moving my projects over, learning, and cooking up some new ones — hope to share them with you soon :rocket:
 
