@@ -38,5 +38,5 @@
 
 <br>
 
->I’m moving my projects over, learning, and cooking up some new ones — hope to share them with you soon :rocket:
+>I’m moving my projects over and cooking up some new ones — hope to share them with you soon :rocket:
 
