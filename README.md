@@ -11,6 +11,7 @@
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="SOLID Principles" src="https://img.shields.io/badge/-SOLID%20Principles-F44A4A?style=flat-square&logo=code&logoColor=white" /> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-20238a?style=flat-square&logo=react&logoColor=white" />
 <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
