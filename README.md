@@ -1,7 +1,23 @@
-<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Great to see you!</h1> -->
-<h2>Welcome to my page!</h2>
+![image](https://github.com/user-attachments/assets/71f468e0-25bc-45d7-9a5d-c538844b2d3f)<!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there! Great to see you!</h1> -->
+<h2>Welcome!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeflow01&label=Profile%20Views&color=0e75b6&style=flat-square" alt="codeflow01" /> </p>
+
+
+<h2>Projects</h2>
+
+- Non-invasive Neck Imaging Tool &nbsp;<a href="https://github.com/codeflow01/The_Non-Invasive_Neck_Imaging_Tool_Project">View Repository</a>
+> Designed and developed a mobile application prototype for non-invasive cardiovascular disease detection using neck imaging analysis, serving as a proof-of-concept and foundational step toward revolutionizing cardiac health assessment. Created an end-to-end solution with a FastAPI backend powering a Python-based video processing pipeline, connected to a React Native (Expo) frontend. Implemented engaging UI interactions using React Native's Gesture Responder System, Gesture Handler, and Reanimated libraries while applying responsive design principles to ensure optimal UX across various mobile devices
+
+- Kalah &nbsp;<a href="https://github.com/codeflow01/Java_Game">View Repository</a>
+> Implemented a console-based Kalah game, focusing on applying maintainable coding practices aligned with SOLID design principles
+
+- Recycling Assistant &nbsp;<a href="https://github.com/codeflow01/RecyclingAssistant">View Repository</a>
+> Developed a cross-platform mobile application to help international newcomers navigate Auckland's recycling challenges, featuring an interactive map and an image recognition system powered by OpenAI API and a machine learning module
+
+- Travel Mate &nbsp;<a href="https://github.com/codeflow01/Travelmate">View Repository</a>
+> Leveraged Google Places API for geolocation data and processed it through Rapid API to deliver real-time, location-based travel information, including restaurants and attractions
+
 
 <h3>Things I code with</h3>
 <p>
