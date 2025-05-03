@@ -7,7 +7,7 @@
 <h2>Projects</h2>
 
 - Non-invasive Neck Imaging Tool &nbsp;<a href="https://github.com/codeflow01/The_Non-Invasive_Neck_Imaging_Tool_Project">View Repository</a>
-> Designed and developed a mobile application prototype for non-invasive cardiovascular disease detection using neck imaging analysis, serving as a proof-of-concept and foundational step toward revolutionizing cardiac health assessment. Created an end-to-end solution with a FastAPI backend powering a Python-based video processing pipeline, connected to a React Native (Expo) frontend. Implemented engaging UI interactions using React Native's Gesture Responder System, Gesture Handler, and Reanimated libraries while applying responsive design principles to ensure optimal UX across various mobile devices
+> Designed and developed a mobile application prototype for non-invasive cardiovascular disease detection using neck imaging analysis, serving as a proof-of-concept and foundational step toward revolutionizing cardiac health assessment. Created an end-to-end solution featuring a FastAPI-based REST API, connected to the backend pipeline capable of automatic video processing, analysis and result visualization, integrated with a React Native (Expo) frontend. Implemented engaging UI interactions using React Native's Gesture Responder System, Gesture Handler, and Reanimated libraries while applying responsive design principles to ensure optimal UX across various mobile devices
 
 - Kalah &nbsp;<a href="https://github.com/codeflow01/Java_Game">View Repository</a>
 > Implemented a console-based Kalah game, focusing on applying maintainable coding practices aligned with SOLID design principles
@@ -57,4 +57,3 @@
 <br>
 
 >I’m moving my projects over and cooking up some new ones — hope to share them with you soon :rocket:
-
