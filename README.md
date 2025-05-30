@@ -6,6 +6,9 @@
 
 <h2>Projects</h2>
 
+- Personal Portfolio Website &nbsp;<a href="https://zeyin.me">View My Website</a>
+> My personal portfolio website built with TypeScript, Next.js 15, Resend, Tailwind CSS, and Framer Motion, deployed on Vercel
+
 - Non-invasive Neck Imaging Tool &nbsp;<a href="https://github.com/codeflow01/The_Non-Invasive_Neck_Imaging_Tool_Project">View Repository</a>
 > Designed and developed a mobile application prototype for non-invasive cardiovascular disease detection using neck imaging analysis, serving as a proof of concept and foundational step toward advancing cardiac health assessment. Built an end-to-end solution incorporating a FastAPI-based REST API, connected to a backend pipeline for automated video processing, analysis and result visualization, integrated with a React Native (Expo) frontend featuring intuitive video recording, editing, and interactive Region of Interest drawing tool using React Native's Gesture Responder System, Gesture Handler, and related technologies. Applied responsive design principles to ensure an optimal UX across various mobile devices
 
