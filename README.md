@@ -59,7 +59,7 @@
 </p>
 
 <a href="https://github.com/codeflow01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeflow01&hide=makefile,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeflow01&hide=makefile&title_color=7f8083&text_color=7f8083&icon_color=2bbc8a&bg_color=00000000&langs_count=20&layout=compact" />
 </a>
 
 <!--
